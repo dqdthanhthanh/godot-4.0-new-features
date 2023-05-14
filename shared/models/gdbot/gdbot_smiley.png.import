@@ -3,16 +3,16 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://m1ib4cliixya"
-path.s3tc="res://.godot/imported/gdbot_smiley.png-de9bbc0ad571ec23ed13cd00f7e53b1f.s3tc.ctex"
+path.etc2="res://.godot/imported/gdbot_smiley.png-de9bbc0ad571ec23ed13cd00f7e53b1f.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://shared/models/gdbot/gdbot_smiley.png"
-dest_files=["res://.godot/imported/gdbot_smiley.png-de9bbc0ad571ec23ed13cd00f7e53b1f.s3tc.ctex"]
+dest_files=["res://.godot/imported/gdbot_smiley.png-de9bbc0ad571ec23ed13cd00f7e53b1f.etc2.ctex"]
 
 [params]
 

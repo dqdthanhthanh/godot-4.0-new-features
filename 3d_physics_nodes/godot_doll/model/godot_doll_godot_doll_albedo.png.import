@@ -3,9 +3,9 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://botnm8vuxdw2y"
-path.bptc="res://.godot/imported/godot_doll_godot_doll_albedo.png-785000d5471e6a07449ec9e4f772063d.bptc.ctex"
+path.astc="res://.godot/imported/godot_doll_godot_doll_albedo.png-785000d5471e6a07449ec9e4f772063d.astc.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["etc2_astc"],
 "vram_texture": true
 }
 generator_parameters={}
@@ -13,7 +13,7 @@ generator_parameters={}
 [deps]
 
 source_file="res://3d_physics_nodes/godot_doll/model/godot_doll_godot_doll_albedo.png"
-dest_files=["res://.godot/imported/godot_doll_godot_doll_albedo.png-785000d5471e6a07449ec9e4f772063d.bptc.ctex"]
+dest_files=["res://.godot/imported/godot_doll_godot_doll_albedo.png-785000d5471e6a07449ec9e4f772063d.astc.ctex"]
 
 [params]
 

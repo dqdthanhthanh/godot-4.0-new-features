@@ -3,9 +3,9 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://of1d07llwu31"
-path.bptc="res://.godot/imported/yellow_knit_ball_knit_ball_normal.png-49bcaa155a6c43d72a9018581a5dcec2.bptc.ctex"
+path.astc="res://.godot/imported/yellow_knit_ball_knit_ball_normal.png-49bcaa155a6c43d72a9018581a5dcec2.astc.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["etc2_astc"],
 "vram_texture": true
 }
 generator_parameters={}
@@ -13,7 +13,7 @@ generator_parameters={}
 [deps]
 
 source_file="res://3d_physics_nodes/assets/yellow_knit_ball/yellow_knit_ball_knit_ball_normal.png"
-dest_files=["res://.godot/imported/yellow_knit_ball_knit_ball_normal.png-49bcaa155a6c43d72a9018581a5dcec2.bptc.ctex"]
+dest_files=["res://.godot/imported/yellow_knit_ball_knit_ball_normal.png-49bcaa155a6c43d72a9018581a5dcec2.astc.ctex"]
 
 [params]
 

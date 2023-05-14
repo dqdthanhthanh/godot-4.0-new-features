@@ -3,9 +3,9 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://df64do1crhinj"
-path.s3tc="res://.godot/imported/mini_room_plank_normal.png-a06bd3425bc863b3d3d484674c8dfd59.s3tc.ctex"
+path.etc2="res://.godot/imported/mini_room_plank_normal.png-a06bd3425bc863b3d3d484674c8dfd59.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["etc2_astc"],
 "vram_texture": true
 }
 generator_parameters={}
@@ -13,7 +13,7 @@ generator_parameters={}
 [deps]
 
 source_file="res://interior-diorama/assets/room/mini_room_plank_normal.png"
-dest_files=["res://.godot/imported/mini_room_plank_normal.png-a06bd3425bc863b3d3d484674c8dfd59.s3tc.ctex"]
+dest_files=["res://.godot/imported/mini_room_plank_normal.png-a06bd3425bc863b3d3d484674c8dfd59.etc2.ctex"]
 
 [params]
 

@@ -3,9 +3,9 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bk5c742umj756"
-path.s3tc="res://.godot/imported/mini_sophia_noik_mouth_normal_map.png-22512927a30a59a2b344d54fa91d128a.s3tc.ctex"
+path.etc2="res://.godot/imported/mini_sophia_noik_mouth_normal_map.png-22512927a30a59a2b344d54fa91d128a.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["etc2_astc"],
 "vram_texture": true
 }
 generator_parameters={}
@@ -13,7 +13,7 @@ generator_parameters={}
 [deps]
 
 source_file="res://animation_retargeting/models/mini_sophia_noik_mouth_normal_map.png"
-dest_files=["res://.godot/imported/mini_sophia_noik_mouth_normal_map.png-22512927a30a59a2b344d54fa91d128a.s3tc.ctex"]
+dest_files=["res://.godot/imported/mini_sophia_noik_mouth_normal_map.png-22512927a30a59a2b344d54fa91d128a.etc2.ctex"]
 
 [params]
 

@@ -3,16 +3,16 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bjoek64f8q37v"
-path.s3tc="res://.godot/imported/cadboard_top_orm.png-d80a2213fac3d65e76d7945a2f480d32.s3tc.ctex"
+path.etc2="res://.godot/imported/cadboard_top_orm.png-d80a2213fac3d65e76d7945a2f480d32.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://3d_physics_nodes/assets/materials/cardboard_top/cadboard_top_orm.png"
-dest_files=["res://.godot/imported/cadboard_top_orm.png-d80a2213fac3d65e76d7945a2f480d32.s3tc.ctex"]
+dest_files=["res://.godot/imported/cadboard_top_orm.png-d80a2213fac3d65e76d7945a2f480d32.etc2.ctex"]
 
 [params]
 

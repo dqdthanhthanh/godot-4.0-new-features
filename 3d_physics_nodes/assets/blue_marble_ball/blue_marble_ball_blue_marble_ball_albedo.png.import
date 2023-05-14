@@ -3,9 +3,9 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://3v27lptliy3v"
-path.s3tc="res://.godot/imported/blue_marble_ball_blue_marble_ball_albedo.png-fec43d0e3c291823cce456341d8a7afb.s3tc.ctex"
+path.etc2="res://.godot/imported/blue_marble_ball_blue_marble_ball_albedo.png-fec43d0e3c291823cce456341d8a7afb.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["etc2_astc"],
 "vram_texture": true
 }
 generator_parameters={}
@@ -13,7 +13,7 @@ generator_parameters={}
 [deps]
 
 source_file="res://3d_physics_nodes/assets/blue_marble_ball/blue_marble_ball_blue_marble_ball_albedo.png"
-dest_files=["res://.godot/imported/blue_marble_ball_blue_marble_ball_albedo.png-fec43d0e3c291823cce456341d8a7afb.s3tc.ctex"]
+dest_files=["res://.godot/imported/blue_marble_ball_blue_marble_ball_albedo.png-fec43d0e3c291823cce456341d8a7afb.etc2.ctex"]
 
 [params]
 

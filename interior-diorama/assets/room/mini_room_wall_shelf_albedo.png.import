@@ -3,9 +3,9 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqtuvllcjltbh"
-path.s3tc="res://.godot/imported/mini_room_wall_shelf_albedo.png-f2e4d57eeaccb65f1194b107ad0fbb6a.s3tc.ctex"
+path.etc2="res://.godot/imported/mini_room_wall_shelf_albedo.png-f2e4d57eeaccb65f1194b107ad0fbb6a.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["etc2_astc"],
 "vram_texture": true
 }
 generator_parameters={}
@@ -13,7 +13,7 @@ generator_parameters={}
 [deps]
 
 source_file="res://interior-diorama/assets/room/mini_room_wall_shelf_albedo.png"
-dest_files=["res://.godot/imported/mini_room_wall_shelf_albedo.png-f2e4d57eeaccb65f1194b107ad0fbb6a.s3tc.ctex"]
+dest_files=["res://.godot/imported/mini_room_wall_shelf_albedo.png-f2e4d57eeaccb65f1194b107ad0fbb6a.etc2.ctex"]
 
 [params]
 

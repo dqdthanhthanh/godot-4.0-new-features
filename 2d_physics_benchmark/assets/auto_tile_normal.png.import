@@ -3,16 +3,16 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://clk62vd2sdxd"
-path.s3tc="res://.godot/imported/auto_tile_normal.png-9d74eaa820ad36f722e3069c6437f5b9.s3tc.ctex"
+path.etc2="res://.godot/imported/auto_tile_normal.png-9d74eaa820ad36f722e3069c6437f5b9.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://2d_physics_benchmark/assets/auto_tile_normal.png"
-dest_files=["res://.godot/imported/auto_tile_normal.png-9d74eaa820ad36f722e3069c6437f5b9.s3tc.ctex"]
+dest_files=["res://.godot/imported/auto_tile_normal.png-9d74eaa820ad36f722e3069c6437f5b9.etc2.ctex"]
 
 [params]
 

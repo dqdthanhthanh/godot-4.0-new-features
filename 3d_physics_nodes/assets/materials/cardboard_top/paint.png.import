@@ -3,16 +3,16 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bgtwxivsfqxxc"
-path.s3tc="res://.godot/imported/paint.png-983d0c6cb779309d30a9181e433f08e0.s3tc.ctex"
+path.etc2="res://.godot/imported/paint.png-983d0c6cb779309d30a9181e433f08e0.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://3d_physics_nodes/assets/materials/cardboard_top/paint.png"
-dest_files=["res://.godot/imported/paint.png-983d0c6cb779309d30a9181e433f08e0.s3tc.ctex"]
+dest_files=["res://.godot/imported/paint.png-983d0c6cb779309d30a9181e433f08e0.etc2.ctex"]
 
 [params]
 
