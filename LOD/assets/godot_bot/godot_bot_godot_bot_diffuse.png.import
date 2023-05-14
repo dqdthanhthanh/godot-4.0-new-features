@@ -3,9 +3,9 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dimlgg5dd11m0"
-path.etc2="res://.godot/imported/godot_bot_godot_bot_diffuse.png-f088db4bfecf18904293cce2c589a8e2.etc2.ctex"
+path.s3tc="res://.godot/imported/godot_bot_godot_bot_diffuse.png-f088db4bfecf18904293cce2c589a8e2.s3tc.ctex"
 metadata={
-"imported_formats": ["etc2_astc"],
+"imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 generator_parameters={}
@@ -13,7 +13,7 @@ generator_parameters={}
 [deps]
 
 source_file="res://LOD/assets/godot_bot/godot_bot_godot_bot_diffuse.png"
-dest_files=["res://.godot/imported/godot_bot_godot_bot_diffuse.png-f088db4bfecf18904293cce2c589a8e2.etc2.ctex"]
+dest_files=["res://.godot/imported/godot_bot_godot_bot_diffuse.png-f088db4bfecf18904293cce2c589a8e2.s3tc.ctex"]
 
 [params]
 

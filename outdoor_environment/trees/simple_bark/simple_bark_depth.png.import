@@ -3,16 +3,16 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dnmd828c21irw"
-path.etc2="res://.godot/imported/simple_bark_depth.png-3ede2cd6db324429c6f431082b476caf.etc2.ctex"
+path.s3tc="res://.godot/imported/simple_bark_depth.png-3ede2cd6db324429c6f431082b476caf.s3tc.ctex"
 metadata={
-"imported_formats": ["etc2_astc"],
+"imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://outdoor_environment/trees/simple_bark/simple_bark_depth.png"
-dest_files=["res://.godot/imported/simple_bark_depth.png-3ede2cd6db324429c6f431082b476caf.etc2.ctex"]
+dest_files=["res://.godot/imported/simple_bark_depth.png-3ede2cd6db324429c6f431082b476caf.s3tc.ctex"]
 
 [params]
 

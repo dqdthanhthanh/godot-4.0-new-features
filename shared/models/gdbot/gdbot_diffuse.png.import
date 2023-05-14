@@ -3,16 +3,16 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cb2ka8xe6soet"
-path.etc2="res://.godot/imported/gdbot_diffuse.png-f771536bc3acc6c6398a3df612fa9b01.etc2.ctex"
+path.s3tc="res://.godot/imported/gdbot_diffuse.png-f771536bc3acc6c6398a3df612fa9b01.s3tc.ctex"
 metadata={
-"imported_formats": ["etc2_astc"],
+"imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://shared/models/gdbot/gdbot_diffuse.png"
-dest_files=["res://.godot/imported/gdbot_diffuse.png-f771536bc3acc6c6398a3df612fa9b01.etc2.ctex"]
+dest_files=["res://.godot/imported/gdbot_diffuse.png-f771536bc3acc6c6398a3df612fa9b01.s3tc.ctex"]
 
 [params]
 

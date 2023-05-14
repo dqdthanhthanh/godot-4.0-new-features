@@ -3,9 +3,9 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://caxnpjpvcx2va"
-path.etc2="res://.godot/imported/orange_flower_pink_flower_normal.png-6a9404cfe433cc225134f70989fff25a.etc2.ctex"
+path.s3tc="res://.godot/imported/orange_flower_pink_flower_normal.png-6a9404cfe433cc225134f70989fff25a.s3tc.ctex"
 metadata={
-"imported_formats": ["etc2_astc"],
+"imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 generator_parameters={}
@@ -13,7 +13,7 @@ generator_parameters={}
 [deps]
 
 source_file="res://outdoor_environment/orange_flowers/orange_flower_pink_flower_normal.png"
-dest_files=["res://.godot/imported/orange_flower_pink_flower_normal.png-6a9404cfe433cc225134f70989fff25a.etc2.ctex"]
+dest_files=["res://.godot/imported/orange_flower_pink_flower_normal.png-6a9404cfe433cc225134f70989fff25a.s3tc.ctex"]
 
 [params]
 

@@ -3,9 +3,9 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://5ftgwnvfs47l"
-path.etc2="res://.godot/imported/navigation_terrain_fence_roughness.png-1852b40577865e96e3fdf34d86ea2ccd.etc2.ctex"
+path.s3tc="res://.godot/imported/navigation_terrain_fence_roughness.png-1852b40577865e96e3fdf34d86ea2ccd.s3tc.ctex"
 metadata={
-"imported_formats": ["etc2_astc"],
+"imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 generator_parameters={}
@@ -13,7 +13,7 @@ generator_parameters={}
 [deps]
 
 source_file="res://navigation/assets/navigation_terrain_fence_roughness.png"
-dest_files=["res://.godot/imported/navigation_terrain_fence_roughness.png-1852b40577865e96e3fdf34d86ea2ccd.etc2.ctex"]
+dest_files=["res://.godot/imported/navigation_terrain_fence_roughness.png-1852b40577865e96e3fdf34d86ea2ccd.s3tc.ctex"]
 
 [params]
 

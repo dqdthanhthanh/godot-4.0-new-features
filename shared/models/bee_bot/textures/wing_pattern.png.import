@@ -3,16 +3,16 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://blaqa1tkmd0xx"
-path.etc2="res://.godot/imported/wing_pattern.png-d4a133dab125bf0539a921755f3c9bc8.etc2.ctex"
+path.s3tc="res://.godot/imported/wing_pattern.png-d4a133dab125bf0539a921755f3c9bc8.s3tc.ctex"
 metadata={
-"imported_formats": ["etc2_astc"],
+"imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://shared/models/bee_bot/textures/wing_pattern.png"
-dest_files=["res://.godot/imported/wing_pattern.png-d4a133dab125bf0539a921755f3c9bc8.etc2.ctex"]
+dest_files=["res://.godot/imported/wing_pattern.png-d4a133dab125bf0539a921755f3c9bc8.s3tc.ctex"]
 
 [params]
 

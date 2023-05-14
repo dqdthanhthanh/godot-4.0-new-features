@@ -3,16 +3,16 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cduimx2gc4xcq"
-path.etc2="res://.godot/imported/corner_B_prototypeworld.png-2fffe16e4a00db8680eefbaa516584be.etc2.ctex"
+path.s3tc="res://.godot/imported/corner_B_prototypeworld.png-2fffe16e4a00db8680eefbaa516584be.s3tc.ctex"
 metadata={
-"imported_formats": ["etc2_astc"],
+"imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://networking/robot_war/assets/models/corner_B_prototypeworld.png"
-dest_files=["res://.godot/imported/corner_B_prototypeworld.png-2fffe16e4a00db8680eefbaa516584be.etc2.ctex"]
+dest_files=["res://.godot/imported/corner_B_prototypeworld.png-2fffe16e4a00db8680eefbaa516584be.s3tc.ctex"]
 
 [params]
 

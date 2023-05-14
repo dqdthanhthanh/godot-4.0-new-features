@@ -3,16 +3,16 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://xxp11wuuoht"
-path.etc2="res://.godot/imported/dark_bark_heightmap.png-c18c051588858bb8915b0c2e25ce30f3.etc2.ctex"
+path.s3tc="res://.godot/imported/dark_bark_heightmap.png-c18c051588858bb8915b0c2e25ce30f3.s3tc.ctex"
 metadata={
-"imported_formats": ["etc2_astc"],
+"imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://outdoor_environment/materials/dark_bark/dark_bark_heightmap.png"
-dest_files=["res://.godot/imported/dark_bark_heightmap.png-c18c051588858bb8915b0c2e25ce30f3.etc2.ctex"]
+dest_files=["res://.godot/imported/dark_bark_heightmap.png-c18c051588858bb8915b0c2e25ce30f3.s3tc.ctex"]
 
 [params]
 

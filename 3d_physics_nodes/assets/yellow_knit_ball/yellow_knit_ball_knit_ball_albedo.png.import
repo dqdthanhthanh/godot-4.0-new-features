@@ -3,9 +3,9 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://buqe1hebopoqw"
-path.astc="res://.godot/imported/yellow_knit_ball_knit_ball_albedo.png-e2d25559fe305ed3dda0b4df163dff5e.astc.ctex"
+path.bptc="res://.godot/imported/yellow_knit_ball_knit_ball_albedo.png-e2d25559fe305ed3dda0b4df163dff5e.bptc.ctex"
 metadata={
-"imported_formats": ["etc2_astc"],
+"imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 generator_parameters={}
@@ -13,7 +13,7 @@ generator_parameters={}
 [deps]
 
 source_file="res://3d_physics_nodes/assets/yellow_knit_ball/yellow_knit_ball_knit_ball_albedo.png"
-dest_files=["res://.godot/imported/yellow_knit_ball_knit_ball_albedo.png-e2d25559fe305ed3dda0b4df163dff5e.astc.ctex"]
+dest_files=["res://.godot/imported/yellow_knit_ball_knit_ball_albedo.png-e2d25559fe305ed3dda0b4df163dff5e.bptc.ctex"]
 
 [params]
 

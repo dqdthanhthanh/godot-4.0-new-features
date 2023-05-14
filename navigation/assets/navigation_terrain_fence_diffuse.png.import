@@ -3,9 +3,9 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bbdyhmsykdifg"
-path.etc2="res://.godot/imported/navigation_terrain_fence_diffuse.png-1703a4cda6001525ae31612ba2526f99.etc2.ctex"
+path.s3tc="res://.godot/imported/navigation_terrain_fence_diffuse.png-1703a4cda6001525ae31612ba2526f99.s3tc.ctex"
 metadata={
-"imported_formats": ["etc2_astc"],
+"imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 generator_parameters={}
@@ -13,7 +13,7 @@ generator_parameters={}
 [deps]
 
 source_file="res://navigation/assets/navigation_terrain_fence_diffuse.png"
-dest_files=["res://.godot/imported/navigation_terrain_fence_diffuse.png-1703a4cda6001525ae31612ba2526f99.etc2.ctex"]
+dest_files=["res://.godot/imported/navigation_terrain_fence_diffuse.png-1703a4cda6001525ae31612ba2526f99.s3tc.ctex"]
 
 [params]
 

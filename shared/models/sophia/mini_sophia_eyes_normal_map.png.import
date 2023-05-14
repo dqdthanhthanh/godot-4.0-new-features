@@ -3,16 +3,16 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c7lxv0sdgd50o"
-path.etc2="res://.godot/imported/mini_sophia_eyes_normal_map.png-b4b12a753a1c2f0a7834a0ef8fbb184a.etc2.ctex"
+path.s3tc="res://.godot/imported/mini_sophia_eyes_normal_map.png-b4b12a753a1c2f0a7834a0ef8fbb184a.s3tc.ctex"
 metadata={
-"imported_formats": ["etc2_astc"],
+"imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://shared/models/sophia/mini_sophia_eyes_normal_map.png"
-dest_files=["res://.godot/imported/mini_sophia_eyes_normal_map.png-b4b12a753a1c2f0a7834a0ef8fbb184a.etc2.ctex"]
+dest_files=["res://.godot/imported/mini_sophia_eyes_normal_map.png-b4b12a753a1c2f0a7834a0ef8fbb184a.s3tc.ctex"]
 
 [params]
 

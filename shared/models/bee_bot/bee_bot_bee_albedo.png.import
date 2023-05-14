@@ -3,16 +3,16 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bkpigoi7u51ly"
-path.etc2="res://.godot/imported/bee_bot_bee_albedo.png-819073f42bea0cb6a288bca0b92413d2.etc2.ctex"
+path.s3tc="res://.godot/imported/bee_bot_bee_albedo.png-819073f42bea0cb6a288bca0b92413d2.s3tc.ctex"
 metadata={
-"imported_formats": ["etc2_astc"],
+"imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://shared/models/bee_bot/bee_bot_bee_albedo.png"
-dest_files=["res://.godot/imported/bee_bot_bee_albedo.png-819073f42bea0cb6a288bca0b92413d2.etc2.ctex"]
+dest_files=["res://.godot/imported/bee_bot_bee_albedo.png-819073f42bea0cb6a288bca0b92413d2.s3tc.ctex"]
 
 [params]
 

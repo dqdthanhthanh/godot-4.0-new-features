@@ -3,9 +3,9 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://demtl2v3fwaf4"
-path.etc2="res://.godot/imported/mini_room_plate_albedo.png-28bc8ef67b78429fcc4016584d7af8ce.etc2.ctex"
+path.s3tc="res://.godot/imported/mini_room_plate_albedo.png-28bc8ef67b78429fcc4016584d7af8ce.s3tc.ctex"
 metadata={
-"imported_formats": ["etc2_astc"],
+"imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 generator_parameters={}
@@ -13,7 +13,7 @@ generator_parameters={}
 [deps]
 
 source_file="res://interior-diorama/assets/room/mini_room_plate_albedo.png"
-dest_files=["res://.godot/imported/mini_room_plate_albedo.png-28bc8ef67b78429fcc4016584d7af8ce.etc2.ctex"]
+dest_files=["res://.godot/imported/mini_room_plate_albedo.png-28bc8ef67b78429fcc4016584d7af8ce.s3tc.ctex"]
 
 [params]
 

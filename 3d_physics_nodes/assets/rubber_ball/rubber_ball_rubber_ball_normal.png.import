@@ -3,9 +3,9 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bcrisb6aquh8s"
-path.astc="res://.godot/imported/rubber_ball_rubber_ball_normal.png-c515613a61293c7c3ca97edb989a1618.astc.ctex"
+path.bptc="res://.godot/imported/rubber_ball_rubber_ball_normal.png-c515613a61293c7c3ca97edb989a1618.bptc.ctex"
 metadata={
-"imported_formats": ["etc2_astc"],
+"imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 generator_parameters={}
@@ -13,7 +13,7 @@ generator_parameters={}
 [deps]
 
 source_file="res://3d_physics_nodes/assets/rubber_ball/rubber_ball_rubber_ball_normal.png"
-dest_files=["res://.godot/imported/rubber_ball_rubber_ball_normal.png-c515613a61293c7c3ca97edb989a1618.astc.ctex"]
+dest_files=["res://.godot/imported/rubber_ball_rubber_ball_normal.png-c515613a61293c7c3ca97edb989a1618.bptc.ctex"]
 
 [params]
 

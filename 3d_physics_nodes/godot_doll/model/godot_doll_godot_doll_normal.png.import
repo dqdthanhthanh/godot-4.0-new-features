@@ -3,9 +3,9 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bxcd205dkyn6o"
-path.astc="res://.godot/imported/godot_doll_godot_doll_normal.png-ef7a5fff6125bdafaa3e5ba5267631e9.astc.ctex"
+path.bptc="res://.godot/imported/godot_doll_godot_doll_normal.png-ef7a5fff6125bdafaa3e5ba5267631e9.bptc.ctex"
 metadata={
-"imported_formats": ["etc2_astc"],
+"imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 generator_parameters={}
@@ -13,7 +13,7 @@ generator_parameters={}
 [deps]
 
 source_file="res://3d_physics_nodes/godot_doll/model/godot_doll_godot_doll_normal.png"
-dest_files=["res://.godot/imported/godot_doll_godot_doll_normal.png-ef7a5fff6125bdafaa3e5ba5267631e9.astc.ctex"]
+dest_files=["res://.godot/imported/godot_doll_godot_doll_normal.png-ef7a5fff6125bdafaa3e5ba5267631e9.bptc.ctex"]
 
 [params]
 

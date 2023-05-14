@@ -3,9 +3,9 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c01o0pnpj3pci"
-path.etc2="res://.godot/imported/mini_room_small_box_albedo.png-5aa392aa45e1b2cf30b39fb1201f4275.etc2.ctex"
+path.s3tc="res://.godot/imported/mini_room_small_box_albedo.png-5aa392aa45e1b2cf30b39fb1201f4275.s3tc.ctex"
 metadata={
-"imported_formats": ["etc2_astc"],
+"imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 generator_parameters={}
@@ -13,7 +13,7 @@ generator_parameters={}
 [deps]
 
 source_file="res://interior-diorama/assets/room/mini_room_small_box_albedo.png"
-dest_files=["res://.godot/imported/mini_room_small_box_albedo.png-5aa392aa45e1b2cf30b39fb1201f4275.etc2.ctex"]
+dest_files=["res://.godot/imported/mini_room_small_box_albedo.png-5aa392aa45e1b2cf30b39fb1201f4275.s3tc.ctex"]
 
 [params]
 

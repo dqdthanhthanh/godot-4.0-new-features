@@ -3,9 +3,9 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://da17l2ty1e0r0"
-path.etc2="res://.godot/imported/orange_flower_flower_blade_albedo.png-1fdd2eed744ad722e5f3703334abac42.etc2.ctex"
+path.s3tc="res://.godot/imported/orange_flower_flower_blade_albedo.png-1fdd2eed744ad722e5f3703334abac42.s3tc.ctex"
 metadata={
-"imported_formats": ["etc2_astc"],
+"imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 generator_parameters={}
@@ -13,7 +13,7 @@ generator_parameters={}
 [deps]
 
 source_file="res://outdoor_environment/orange_flowers/orange_flower_flower_blade_albedo.png"
-dest_files=["res://.godot/imported/orange_flower_flower_blade_albedo.png-1fdd2eed744ad722e5f3703334abac42.etc2.ctex"]
+dest_files=["res://.godot/imported/orange_flower_flower_blade_albedo.png-1fdd2eed744ad722e5f3703334abac42.s3tc.ctex"]
 
 [params]
 

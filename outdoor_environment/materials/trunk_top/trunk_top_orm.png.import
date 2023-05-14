@@ -3,16 +3,16 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dt6dvupgfyhdw"
-path.etc2="res://.godot/imported/trunk_top_orm.png-a47c99084b97d75bbd1a0d4df5c42437.etc2.ctex"
+path.s3tc="res://.godot/imported/trunk_top_orm.png-a47c99084b97d75bbd1a0d4df5c42437.s3tc.ctex"
 metadata={
-"imported_formats": ["etc2_astc"],
+"imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://outdoor_environment/materials/trunk_top/trunk_top_orm.png"
-dest_files=["res://.godot/imported/trunk_top_orm.png-a47c99084b97d75bbd1a0d4df5c42437.etc2.ctex"]
+dest_files=["res://.godot/imported/trunk_top_orm.png-a47c99084b97d75bbd1a0d4df5c42437.s3tc.ctex"]
 
 [params]
 
